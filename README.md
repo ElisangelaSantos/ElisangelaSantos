@@ -1,7 +1,9 @@
-### Oi, seja bem vindo 🙌�
+### Oi, seja bem vindo 🙌
+
+
+No momento estou estudando programação para se tornar em breve um Dev Front-End📟�
 <!--
 **ElisangelaSantos/ElisangelaSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-No momento estou estudando programação para se tornar em breve um Dev Front-End📟
 Aqui estão algumas idéias para você começar:
 
 - 🔭 I’m currently working on ...
