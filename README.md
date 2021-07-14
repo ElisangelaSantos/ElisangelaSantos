@@ -24,8 +24,10 @@
 <Img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
 </ a >
   
+    
+    
+    
 [![ElisangelaSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=ElisangelaSantos)](https://github.com/ElisangelaSantos/github-readme-stats)
-  
   
 <img 
 src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="500">
