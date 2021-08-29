@@ -2,9 +2,9 @@
 
   <h1 align = "center">
  Olá, seja bem vindo(a)  <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👋</font></font></g-emoji>
-</h1>  
-    Sou profissional de TI e atuo nas áreas de Banco de dados e infraestrutura de Redes. No momento estou estudando "Ciência de Dados" para me tornar em breve uma Expert em coleta e informação. </font></font>
-<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></g-emoji>
+</h1>
+      Sou profissional de TI e presto serviço na área de Banco de dados e Infraestrutura de Redes. No momento estou estudando "Ciência de Dados" para me tornar em breve uma Expert em coleta e tratamento de dados. </font></font>
+<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></g-emoji>  
 
 
   <h1 align = "center">
